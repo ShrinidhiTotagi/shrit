@@ -1,0 +1,2 @@
+# shrit
+my first repository
